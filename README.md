@@ -9,6 +9,6 @@ My very own personal website. Basically this is just a résumé.
 <hr />
 
 # Links 🔗
-- [GitHub Pages](https://borrrovoy.io/homepage/)
+- [GitHub Pages](https://borrrovoy.github.io/homepage/)
 
 🧙Hocus-pocus!
